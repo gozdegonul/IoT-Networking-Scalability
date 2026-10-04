@@ -25,8 +25,8 @@ This report examines:
 
 | Format | Link |
 |---|---|
-| PDF | [IoT_Networking_Protocols_Scalability_Analysis.pdf](./IoT_Networking_Protocols_Scalability_Analysis.pdf) |
-| Word | [IoT_Networking_Protocols_Scalability_Analysis.docx](./IoT_Networking_Protocols_Scalability_Analysis.docx) |
+| PDF | [IoT_Networking_Protocols_Scalability_Analysis.pdf](./Internet of Things (IoT) Networking Protocols & Scalability Analysis.pdf) |
+| Word | [IoT_Networking_Protocols_Scalability_Analysis.docx](./Internet of Things (IoT) Networking Protocols & Scalability Analysis.docx) |
 
 ## 🧭 Contents
 
